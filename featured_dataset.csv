@@ -1,0 +1,31 @@
+supplierId,name,country,industryVertical,water_usage_m3,turnover_rate_percent,workplace_accidents_last_year,has_anti_corruption_policy,publishes_esg_report,total_emissions_kg_co2e,lat,lng,sector,number_of_workers,processing_type,geopolitical_risk,industry_description,industry_risk,worker_count_avg,emission_intensity,is_iso14001_certified,is_sa8000_certified,risk_level
+sup_001,Apex Garments,Bangladesh,Garment Manufacturing,50000,15,2,True,True,123000.0,,,,0,Unspecified,4,Garment Manufacturing,3,0,0,True,False,Medium
+sup_002,Rainbow Dyers,India,Dyeing & Finishing,120000,22,5,False,False,80800.0,,,,0,Unspecified,3,Dyeing & Finishing,5,0,0,True,True,High
+sup_003,Tiruppur Spinning Mills,India,Spinning Mill,75000,10,1,True,False,26800.0,,,,0,Unspecified,3,Spinning Mill,4,0,0,False,False,Medium
+sup_004,Organic Cotton Collective,USA,Raw Material Farming,30000,5,0,True,True,41000.0,,,,0,Unspecified,1,Raw Material Farming,2,0,0,True,False,Low
+sup_005,Vietnam Weavers,Vietnam,Weaving & Knitting,60000,18,3,False,True,73800.0,,,,0,Unspecified,2,Weaving & Knitting,3,0,0,True,False,Medium
+sup_006,Global Weaving Co.,Turkey,Weaving & Knitting,80000,12,2,True,True,90200.0,,,,0,Unspecified,3,Weaving & Knitting,3,0,0,True,True,Low
+sup_007,Eco-Friendly Packaging,India,Packaging,10000,8,0,True,True,20500.0,,,,0,Unspecified,3,Packaging,1,0,0,True,False,Low
+sup_008,Risky Dyers Pakistan,Pakistan,Dyeing & Finishing,250000,35,12,False,False,363600.0,,,,0,Unspecified,5,Dyeing & Finishing,5,0,0,True,True,High
+sup_009,China Silk Manufacturing,China,Weaving & Knitting,110000,25,6,False,False,164000.0,,,,0,Unspecified,4,Weaving & Knitting,3,0,0,False,False,High
+sup_010,USA Apparel Co,USA,Garment Manufacturing,20000,7,1,True,True,49200.0,,,,0,Unspecified,1,Garment Manufacturing,3,0,0,True,True,Low
+sup_011,Turkish Denim Mill,Turkey,Spinning Mill,90000,14,3,True,False,67000.0,,,,0,Unspecified,3,Spinning Mill,4,0,0,True,False,Medium
+sup_012,Dhaka Finishing Plant,Bangladesh,Dyeing & Finishing,180000,28,8,False,False,303000.0,,,,0,Unspecified,4,Dyeing & Finishing,5,0,0,True,False,High
+sup_013,Saigon Logistics,Vietnam,Logistics,5000,10,1,True,False,80400.0,,,,0,Unspecified,2,Logistics,1,0,0,True,True,Low
+sup_014,Mumbai Prints,India,Printing,45000,16,4,False,True,106600.0,,,,0,Unspecified,3,Printing,4,0,0,True,True,Medium
+sup_015,Karachi Cotton Exporters,Pakistan,Raw Material Farming,60000,30,7,False,False,40200.0,,,,0,Unspecified,5,Raw Material Farming,2,0,0,True,True,Medium
+sup_016,4 Star Textiles,India,Garment Manufacturing,60000,18,3,True,False,131200.0,22.833334,69.3554783,Apparel,0,Unspecified,3,Garment Manufacturing,3,0,0,True,True,Low
+sup_017,Aadhavan Textiles Printing,India,Printing,90000,15,4,False,True,114800.0,11.0480348,77.949593,Apparel,0,Unspecified,3,Printing,4,0,0,False,False,High
+sup_018,Santana Textiles,Brazil,Weaving & Knitting,85000,11,2,True,True,155800.0,,,,0,Unspecified,3,Weaving & Knitting,3,0,0,True,True,Low
+sup_019,Zouping Taizi Hongfu Home Textiles Factory,China,Weaving & Knitting,95000,28,6,False,False,121200.0,,,,0,Unspecified,4,Weaving & Knitting,3,0,0,False,True,High
+sup_020,4G TEXTILES SARL,Morocco,Garment Manufacturing,40000,21,5,False,False,48240.0,,,,0,Unspecified,3,Garment Manufacturing,3,0,0,False,True,Medium
+sup_021,Clean Earth Mills,USA,Spinning Mill,40000,6,0,True,True,61499.99999999999,,,,0,Unspecified,1,Spinning Mill,4,0,0,True,False,Low
+sup_022,Vietnam Finishing Touch,Vietnam,Dyeing & Finishing,95000,20,4,False,False,141400.0,,,,0,Unspecified,2,Dyeing & Finishing,5,0,0,True,False,High
+sup_023,Brazil Cotton Hub,Brazil,Raw Material Farming,70000,15,2,True,False,53600.0,,,,0,Unspecified,3,Raw Material Farming,2,0,0,False,False,Medium
+sup_024,Morocco Leather Goods,Morocco,Manufacturing,30000,19,6,False,False,40200.0,,,,0,Unspecified,3,Manufacturing,3,0,0,False,False,High
+sup_025,Istanbul Garments,Turkey,Garment Manufacturing,45000,13,1,True,True,69700.0,,,,0,Unspecified,3,Garment Manufacturing,3,0,0,False,True,Low
+sup_026,United Tex,Bangladesh,Garment Manufacturing,150000,33,9,False,False,242400.0,,,,0,Unspecified,4,Garment Manufacturing,3,0,0,True,False,High
+sup_027,Premium Packaging Solutions,USA,Packaging,5000,4,0,True,True,8200.0,,,,0,Unspecified,1,Packaging,1,0,0,True,False,Low
+sup_028,Surat Weaving Mills,India,Weaving & Knitting,88000,17,3,True,False,102500.0,,,,0,Unspecified,3,Weaving & Knitting,3,0,0,False,True,Medium
+sup_029,Nantong High-Tech Textiles,China,Spinning Mill,130000,26,7,False,False,180400.0,,,,0,Unspecified,4,Spinning Mill,4,0,0,True,False,High
+sup_030,Lahore Tannery,Pakistan,Manufacturing,220000,38,15,False,False,323200.0,,,,0,Unspecified,5,Manufacturing,3,0,0,True,True,High
